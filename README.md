@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=aysladev&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Não trabalho, no momento<br/> Dsenvolvendo apenas na escola B)</p>
+<p>Não trabalho por enquanto<br/> Dsenvolvendo apenas na escola B)</p>
