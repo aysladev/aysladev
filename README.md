@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=aysladev&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Not working for now<br/> developing only at school :nerd_face:</p>
+<p>Not working for now<br/> developing only to learn :nerd_face:</p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
